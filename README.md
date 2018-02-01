@@ -1,2 +1,2 @@
 # A simple memory game
-*still in progress
+*still in progress*
